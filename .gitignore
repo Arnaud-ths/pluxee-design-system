@@ -1,0 +1,28 @@
+# Brand book PDFs (Pluxee confidential — never publish)
+*.pdf
+split/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Empty staging folders
+generated-images/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python (au cas où on lance le script de conversion font)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (au cas où on builderait un site statique)
+node_modules/
+dist/
+.cache/
