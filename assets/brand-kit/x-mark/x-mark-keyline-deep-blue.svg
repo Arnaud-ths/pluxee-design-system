@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700">
+  <g transform="translate(0,700) scale(0.1,-0.1)" fill="none" stroke="#221C46" stroke-width="300" stroke-linejoin="miter">
+    <path d="M870 5278 l0 -843 467 -467 468 -468 -468 -468 -467 -467 2 -845 3 -845 845 -3 845 -2 467 467 468 468 468 -468 467 -467 845 2 845 3 3 845 2 845 -467 467 -468 468 468 468 467 467 0 843 0 842 -852 0 -853 0 -462 -462 -463 -463 -463 463 -462 462 -853 0 -852 0 0 -842z"/>
+  </g>
+</svg>
