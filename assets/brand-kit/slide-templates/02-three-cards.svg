@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" font-family="Verdana, sans-serif">
+  <rect width="1920" height="1080" fill="#FFFFFF"/>
+
+  <!-- Logo top-left -->
+  <text x="100" y="100" fill="#221C46" font-size="32" font-weight="800">pluxee</text>
+
+  <!-- Title -->
+  <text x="100" y="200" fill="#221C46" font-size="64" font-weight="700">Nos ambitions.</text>
+  <text x="100" y="250" fill="#221C46" font-size="28" font-weight="500" opacity="0.7">Concrètes. Mesurables. À 12 mois.</text>
+
+  <!-- 3 cards (square 440x440, incision bottom 1/3) -->
+  <!-- Card 1 — Boldly Blue -->
+  <g transform="translate(160,360)">
+    <path d="M0,0 L440,0 L440,440 L293.3,440 L220,366.6 L146.7,440 L0,440 Z" fill="#17CCF9"/>
+    <circle cx="220" cy="120" r="40" fill="#221C46" opacity="0.0"/>
+    <text x="220" y="135" fill="#221C46" font-size="56" text-anchor="middle">📣</text>
+    <text x="220" y="240" fill="#221C46" font-size="28" font-weight="700" text-anchor="middle">Visibilité × 3</text>
+    <text x="220" y="290" fill="#221C46" font-size="16" text-anchor="middle">Marque la plus visible du benefit</text>
+    <text x="220" y="312" fill="#221C46" font-size="16" text-anchor="middle">sur LinkedIn d'ici fin 2025.</text>
+  </g>
+
+  <!-- Card 2 — Coral -->
+  <g transform="translate(740,360)">
+    <path d="M0,0 L440,0 L440,440 L293.3,440 L220,366.6 L146.7,440 L0,440 Z" fill="#FF7375"/>
+    <text x="220" y="135" fill="#221C46" font-size="56" text-anchor="middle">⭐</text>
+    <text x="220" y="240" fill="#221C46" font-size="28" font-weight="700" text-anchor="middle">20 leaders actifs</text>
+    <text x="220" y="290" fill="#221C46" font-size="16" text-anchor="middle">Activer 20 voix authentiques via</text>
+    <text x="220" y="312" fill="#221C46" font-size="16" text-anchor="middle">le programme d'advocacy.</text>
+  </g>
+
+  <!-- Card 3 — Very Yellow -->
+  <g transform="translate(1320,360)">
+    <path d="M0,0 L440,0 L440,440 L293.3,440 L220,366.6 L146.7,440 L0,440 Z" fill="#FFDC37"/>
+    <text x="220" y="135" fill="#221C46" font-size="56" text-anchor="middle">🎯</text>
+    <text x="220" y="240" fill="#221C46" font-size="28" font-weight="700" text-anchor="middle">+50% engagement</text>
+    <text x="220" y="290" fill="#221C46" font-size="16" text-anchor="middle">Doubler le taux d'engagement</text>
+    <text x="220" y="312" fill="#221C46" font-size="16" text-anchor="middle">organique sur les réseaux clés.</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="100" y="1040" fill="#221C46" font-size="12" opacity="0.5">Confidentiel · [Agence] · Mai 2025</text>
+  <text x="1820" y="1040" fill="#221C46" font-size="12" opacity="0.5" text-anchor="end">03 / 20</text>
+</svg>

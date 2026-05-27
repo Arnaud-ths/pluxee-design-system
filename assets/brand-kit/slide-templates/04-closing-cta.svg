@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" font-family="Verdana, sans-serif">
+  <rect width="1920" height="1080" fill="#00EB5E"/>
+
+  <!-- Big statement -->
+  <text x="960" y="500" fill="#221C46" font-size="180" font-weight="900" text-anchor="middle">Let's do this.</text>
+
+  <!-- Subhead -->
+  <text x="960" y="580" fill="#221C46" font-size="36" font-weight="500" text-anchor="middle">3 jalons pour démarrer.</text>
+
+  <!-- 3 bullets -->
+  <text x="480" y="730" fill="#221C46" font-size="20">× Semaine 1 — Validation stratégie + SOW</text>
+  <text x="480" y="780" fill="#221C46" font-size="20">× Semaines 2–4 — Audit + mapping des 20 leaders</text>
+  <text x="480" y="830" fill="#221C46" font-size="20">× Semaine 5 — Lancement Master Content #1</text>
+
+  <!-- Logo Pluxee bottom-center -->
+  <text x="960" y="990" fill="#221C46" font-size="40" font-weight="800" text-anchor="middle">pluxee</text>
+
+  <text x="1820" y="1040" fill="#221C46" font-size="12" opacity="0.6" text-anchor="end">20 / 20</text>
+</svg>

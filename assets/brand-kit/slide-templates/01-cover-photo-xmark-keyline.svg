@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" font-family="Verdana, sans-serif">
+  <!-- Background placeholder (photo area) -->
+  <rect width="1920" height="1080" fill="#221C46"/>
+  <rect x="960" y="0" width="960" height="1080" fill="#3A3470" opacity="0.6"/>
+  <text x="1440" y="540" fill="#FFFFFF" font-size="20" text-anchor="middle" opacity="0.4">[ PHOTO IN THE MOMENT — full bleed right side ]</text>
+
+  <!-- Logo Pluxee White top-left -->
+  <text x="100" y="120" fill="#FFFFFF" font-size="56" font-weight="800">pluxee</text>
+
+  <!-- Headline -->
+  <text x="100" y="620" fill="#00EB5E" font-size="120" font-weight="900">Let's amplify</text>
+  <text x="100" y="760" fill="#FFFFFF" font-size="120" font-weight="900">what matters.</text>
+
+  <!-- Subhead -->
+  <text x="100" y="850" fill="#FFFFFF" font-size="30" font-weight="500" opacity="0.85">Stratégie Social Media &amp; Leader Advocacy — proposition 2025</text>
+
+  <!-- X-mark keyline Ultra Green overlapping photo zone -->
+  <g transform="translate(1200,300) scale(0.6)" fill="none" stroke="#00EB5E" stroke-width="30" stroke-linejoin="miter">
+    <path d="M87,52.78 L87,135.78 L133.7,182.48 L180.4,229.18 L133.7,275.88 L87,322.58 L87.2,407.08 L87.5,491.58 L172,491.88 L256.5,492.18 L303.2,445.48 L349.9,398.78 L396.6,445.48 L443.3,492.18 L527.8,491.88 L612.3,491.58 L612.6,407.08 L612.8,322.58 L566.1,275.88 L519.4,229.18 L566.1,182.48 L612.8,135.78 L612.8,52.58 L612.8,52.18 L527.6,52.18 L442.3,52.18 L396.1,98.38 L349.8,144.68 L303.5,98.38 L257.3,52.18 L172.1,52.18 L87,52.18 Z"/>
+  </g>
+
+  <!-- Footer -->
+  <text x="100" y="1020" fill="#FFFFFF" font-size="14" opacity="0.6">[Agence] · Mai 2025 · Confidentiel</text>
+  <text x="1820" y="1020" fill="#FFFFFF" font-size="14" opacity="0.6" text-anchor="end">01 / 20</text>
+</svg>

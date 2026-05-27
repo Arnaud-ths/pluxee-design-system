@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" font-family="Verdana, sans-serif">
+<g>
+<rect x="0" y="0" width="400" height="200" fill="#00EB5E"/>
+<rect x="400" y="0" width="400" height="200" fill="#7FF5AE"/>
+<rect x="800" y="0" width="400" height="200" fill="#CCFBDE"/>
+<text x="20" y="30" fill="#221C46" font-size="18" font-weight="bold">ultra-green 100%</text>
+<text x="20" y="52" fill="#221C46" font-size="14">#00EB5E</text>
+<text x="420" y="30" fill="#221C46" font-size="18" font-weight="bold">ultra-green 50%</text>
+<text x="420" y="52" fill="#221C46" font-size="14">#7FF5AE</text>
+<text x="820" y="30" fill="#221C46" font-size="18" font-weight="bold">ultra-green 20%</text>
+<text x="820" y="52" fill="#221C46" font-size="14">#CCFBDE</text>
+</g>
+<g>
+<rect x="0" y="200" width="400" height="200" fill="#17CCF9"/>
+<rect x="400" y="200" width="400" height="200" fill="#8BE5FC"/>
+<rect x="800" y="200" width="400" height="200" fill="#D0F4FD"/>
+<text x="20" y="230" fill="#221C46" font-size="18" font-weight="bold">boldly-blue 100%</text>
+<text x="20" y="252" fill="#221C46" font-size="14">#17CCF9</text>
+<text x="420" y="230" fill="#221C46" font-size="18" font-weight="bold">boldly-blue 50%</text>
+<text x="420" y="252" fill="#221C46" font-size="14">#8BE5FC</text>
+<text x="820" y="230" fill="#221C46" font-size="18" font-weight="bold">boldly-blue 20%</text>
+<text x="820" y="252" fill="#221C46" font-size="14">#D0F4FD</text>
+</g>
+<g>
+<rect x="0" y="400" width="400" height="200" fill="#FFDC37"/>
+<rect x="400" y="400" width="400" height="200" fill="#FFED9B"/>
+<rect x="800" y="400" width="400" height="200" fill="#FFF8D7"/>
+<text x="20" y="430" fill="#221C46" font-size="18" font-weight="bold">very-yellow 100%</text>
+<text x="20" y="452" fill="#221C46" font-size="14">#FFDC37</text>
+<text x="420" y="430" fill="#221C46" font-size="18" font-weight="bold">very-yellow 50%</text>
+<text x="420" y="452" fill="#221C46" font-size="14">#FFED9B</text>
+<text x="820" y="430" fill="#221C46" font-size="18" font-weight="bold">very-yellow 20%</text>
+<text x="820" y="452" fill="#221C46" font-size="14">#FFF8D7</text>
+</g>
+<g>
+<rect x="0" y="600" width="400" height="200" fill="#FF7375"/>
+<rect x="400" y="600" width="400" height="200" fill="#FFB9BA"/>
+<rect x="800" y="600" width="400" height="200" fill="#FFE3E3"/>
+<text x="20" y="630" fill="#221C46" font-size="18" font-weight="bold">coral 100%</text>
+<text x="20" y="652" fill="#221C46" font-size="14">#FF7375</text>
+<text x="420" y="630" fill="#221C46" font-size="18" font-weight="bold">coral 50%</text>
+<text x="420" y="652" fill="#221C46" font-size="14">#FFB9BA</text>
+<text x="820" y="630" fill="#221C46" font-size="18" font-weight="bold">coral 20%</text>
+<text x="820" y="652" fill="#221C46" font-size="14">#FFE3E3</text>
+</g>
+</svg>
